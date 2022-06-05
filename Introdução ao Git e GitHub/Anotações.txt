@@ -1,0 +1,17 @@
+Ls-> Listar
+cd -> entrar na pasta
+mkdir -> Criar um repositório (pasta)
+. - > Pastas que começam com ponto são ocultas
+-a -> mostrar arquivos ocultos 
+cd .. -> Volta para pasta anterior 
+git init -> criando/inicializando o repositório no git
+
+git add -> adicionar arquivo 
+
+git status-ver o status
+
+mv (nome do arquivo) (pasta) -> mover o arquivo
+
+git commit- criar um snapshot
+
+echo ->criar arquivo 
